@@ -51,4 +51,4 @@ jobs:
 
       - name: Build Website
         run: |
-          parcel build src/index.html --no-optimize --public-url ./
+          parcel build src/index.html --public-url ./
